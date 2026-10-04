@@ -1,0 +1,4 @@
+spec,k_ar_diff,rang_trace
+constante,1.0,0
+tendance linéaire,1.0,0
+Engle-Granger (asymétrique),,"stat=-2.38, p=0.336"
